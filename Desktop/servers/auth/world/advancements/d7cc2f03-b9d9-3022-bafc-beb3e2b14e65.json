@@ -1,0 +1,38 @@
+{
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2023-02-23 10:22:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2023-02-23 10:22:59 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2023-02-23 10:22:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:root": {
+    "criteria": {
+      "tick": "2023-02-23 10:01:38 +0000"
+    },
+    "done": true
+  },
+  "cfm:install": {
+    "criteria": {
+      "tick": "2023-02-23 10:01:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2023-02-23 10:01:38 +0000"
+    },
+    "done": false
+  }
+}
